@@ -1,6 +1,5 @@
 # Macropad v1
 
-<img width="561" alt="Screenshot 2025-06-01 at 11 32 51 PM" src="https://github.com/user-attachments/assets/9705c22d-86f7-453a-9897-639602a7339f" />
 
 ## Features
 - 6 Switches
@@ -25,13 +24,13 @@ The firmware of this macropad was made using KMK.
 
 ### Schematics
 
-<img width="250" alt="schematic" src="assets/schematic.png" />
+<img width="400" alt="schematic" src="assets/schematic.png" />
 
 ### PCB
 
-<img width="250" alt="pcb" src="assets/pcb.png" />
+<img width="400" alt="pcb" src="assets/pcb.png" />
 
 ### Case
 
-<img width="250" alt="assets/cad.png" />
+<img width="400" alt="assets/cad.png" />
 
