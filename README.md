@@ -31,6 +31,7 @@ The firmware of this macropad was made using KMK.
 <img width="400" alt="pcb" src="assets/pcb.png" />
 
 ### Case
+[Onshape](https://cad.onshape.com/documents/5906443835429a70686708c9/w/0a37427c6684fd944ae1fb2e/e/fe81ea7ceb2d4edde9dfcf52)
 
 <img width="400" alt="cad" src="assets/cad.png"/>
 
